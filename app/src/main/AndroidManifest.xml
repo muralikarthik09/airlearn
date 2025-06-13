@@ -17,7 +17,7 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name="test.com.airlearn.presentation.views.SearchActivity"
+            android:name="example.com.airlearn.presentation.views.SearchActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,7 +25,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="test.com.airlearn.presentation.views.ProfileActivity"
+            android:name="example.com.airlearn.presentation.views.ProfileActivity"
             android:exported="true" />
 
     </application>
