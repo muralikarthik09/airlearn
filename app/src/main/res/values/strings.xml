@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Air Learn</string>
+    <string name="search">Search Github users</string>
+    <string name="search_github_users">Search GitHub users</string>
+    <string name="no_bio_available">No bio available</string>
+    <string name="followers_count">Followers: %d</string>
+    <string name="repositories_count">Repos: %d</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="repositories">Repositories</string>
+    <string name="error_loading_profile">Error loading profile</string>
+    <string name="no_repositories_found">No repositories found</string>
+    <string name="no_users_found">No users found</string>
+</resources>
